@@ -1,7 +1,7 @@
 # UCI-Power-Plant
 The dataset contains 9568 data points collected from a Combined Cycle Power Plant over 6 years (2006-2011), when the plant was set to work with full load.
 
-## [See Notebook](http://nbviewer.jupyter.org/github/ArthurLu/UCI-Power-Plant/blob/master/)
+## [See Notebook](http://nbviewer.jupyter.org/github/ArthurLu/UCI-Power-Plant/blob/master/PySpark%20-%20Power%20Plant.ipynb)
 ![](http://content.caiso.com/outlook/SP/ems_small.gif)
 
 ## Project Highlights
