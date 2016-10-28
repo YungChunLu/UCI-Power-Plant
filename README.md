@@ -1,6 +1,9 @@
 # UCI-Power-Plant
 The dataset contains 9568 data points collected from a Combined Cycle Power Plant over 6 years (2006-2011), when the plant was set to work with full load.
 
+## [See Notebook](http://nbviewer.jupyter.org/github/ArthurLu/UCI-Power-Plant/blob/master/)
+![](http://content.caiso.com/outlook/SP/ems_small.gif)
+
 ## Project Highlights
  * Demonstrated the end-to-end process of performing Extract-Transform-Load with PySpark.
  * Performed Exploratory Data Analysis on a real-world dataset, and then applying several different machine learning algorithms to solve a supervised regression problem on the dataset.
